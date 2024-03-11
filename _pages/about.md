@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bienvenidos a la Página Personal de Mario Arzamendia"
+title: "Bienvenidos"
 author_profile: true
 redirect_from: 
   - /about/

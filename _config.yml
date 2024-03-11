@@ -15,7 +15,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Basic Site Settings
 locale                   : "es-PY"
-title                    : "Página Personal de Mario  Arzamendia Lopez"
+title                    : "Página Personal - Mario  Arzamendia"
 title_separator          : "-"
 name                     : &name "Dr. Ing. Mario Eduardo Arzamendia Lopez"
 description              : &description "Docente Investigador "

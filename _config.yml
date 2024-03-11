@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "es-PY"
-title                    : "Pagina Personal de Mario Eduardo Arzamendia Lopez"
+title                    : "Página Personal de Mario  Arzamendia Lopez"
 title_separator          : "-"
 name                     : &name "Dr. Ing. Mario Eduardo Arzamendia Lopez"
-description              : &description "Docente Investigador con Dedicación Completa en el Laboratorio de Sistemas Distribuidos del Departamento de Ingeniería Elecrónica y Mecatrónica de la Facultad de Ingeniería de la Universidad Nacional de Asunción."
+description              : &description "Docente Investigador "
 url                      : https://marzlop.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "marzlop/mar.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Mario Arzamendia López"
   pronouns         : "Dr. Ing." # example: "she/her"  
-  bio              : "Docente Investigador con Dedicación Completa en el Laboratorio de Sistemas Distribuidos del Departamento de Ingeniería Elecrónica y Mecatrónica de la Facultad de Ingeniería de la Universidad Nacional de Asunción."
+  bio              : "Docente Investigador Dedicación Completa - Laboratorio de Sistemas Distribuidos - Departamento de Ingeniería Elecrónica y Mecatrónica - Facultad de Ingeniería de la Universidad Nacional de Asunción (FIUNA)."
   location         : "Asunción, Paraguay"
   employer         : "FIUNA"
   uri              : "www.ing.una.py" # URL
@@ -35,7 +35,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=mdptdt4AAAAJ&hl"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development

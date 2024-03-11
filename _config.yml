@@ -6,6 +6,8 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
+minimal_mistakes_skin: "plum"
+
 # Basic Site Settings
 locale                   : "es-PY"
 title                    : "Página Personal de Mario  Arzamendia Lopez"

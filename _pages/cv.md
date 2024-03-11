@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D, en Ingniería Electrónica, Automática y Telecomunicación, Universidad de Sevilla, España. 2019
+* M.Sc. en Ingeniería Electrónica, Ubniversidad de Mie, Japon. 2014
+* B.S. en Ingeniería Eléctrica, Universidad de Brasilia, Brasil, 2002.
 
 Work experience
 ======
